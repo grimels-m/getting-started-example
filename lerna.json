@@ -1,4 +1,15 @@
 {
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "publish": {
+    "allowBranch": [
+      "test/1"
+    ],
+    "preDistTag": "alpha",
+    "message": "chore(release): publish",
+    "ignoreChanges": [
+      "**/*.stories.tsx",
+      "**/*.tests.js"
+    ]
+  },
   "version": "0.0.0"
 }
