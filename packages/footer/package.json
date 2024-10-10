@@ -1,5 +1,5 @@
 {
-  "name": "footer",
+  "name": "@lerna-versioning-poc/footer",
   "version": "0.0.2-alpha.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

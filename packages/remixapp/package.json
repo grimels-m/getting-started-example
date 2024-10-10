@@ -1,5 +1,5 @@
 {
-  "name": "remixapp",
+  "name": "@lerna-versioning-poc/remixapp",
   "version": "0.0.2-alpha.0",
   "private": true,
   "sideEffects": false,
