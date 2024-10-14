@@ -1,6 +1,6 @@
 {
   "name": "@lerna-versioning-poc/remixapp",
-  "version": "0.2.0-alpha.0",
+  "version": "0.2.0-alpha.1",
   "private": true,
   "sideEffects": false,
   "scripts": {
@@ -10,8 +10,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@lerna-versioning-poc/footer": "^0.2.0-alpha.0",
-    "@lerna-versioning-poc/header": "^0.2.0-alpha.0",
+    "@lerna-versioning-poc/footer": "^0.2.0-alpha.1",
+    "@lerna-versioning-poc/header": "^0.2.0-alpha.1",
     "@remix-run/node": "^1.5.1",
     "@remix-run/react": "^1.5.1",
     "@remix-run/serve": "^1.5.1",
